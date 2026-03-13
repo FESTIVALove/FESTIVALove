@@ -13,6 +13,13 @@ Helping users grow and develop their accounts. What's inside — coming soon
 IDE: *WebStorm*  
 Framework: *Vue.js*  
 Language: *TypeScript*  
+
+![FESTIVALove's GitHub stats](https://github-readme-stats.vercel.app/api?username=FESTIVALove&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FESTIVALove&layout=compact&theme=radical&hide_border=true)
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=FESTIVALove&theme=radical&hide_border=true)
+
   
 ### **About me**  
   
